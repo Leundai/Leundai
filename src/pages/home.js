@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { Flex, Text, Box, Image, Link, Stack, Divider } from "@chakra-ui/react";
 import ReactGA from "react-ga";
 import profilePicture from "../resources/me.jpg";
-import resume from "../resources/ResumeFall2020.pdf";
+import resume from "../resources/Leonardo_Galindo_ResumeSummer2021.pdf";
 import useWindowDimensions from "../hooks/useWindowDimensions";
 
 function Home() {
@@ -76,7 +76,7 @@ function Home() {
         applications that benefit communities in need.
         <br />
         <br />
-        I'll be interning at Facebook for Summer 2021
+        Facebook Intern and incoming Snapchat Intern
         <br />
         I'm a software developer at{" "}
         <Link color="blue.500" isExternal href="https://uiuc.hack4impact.org/">
